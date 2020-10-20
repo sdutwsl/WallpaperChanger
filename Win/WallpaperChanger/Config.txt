@@ -1,0 +1,2 @@
+PATH=C:\Users\wangh\Pictures\Wallpapers
+time=5
