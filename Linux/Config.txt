@@ -1,0 +1,2 @@
+PATH=/home/wsl/图片/壁纸
+time=5
